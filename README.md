@@ -1,2 +1,2 @@
-# image_recognization-
+# image recognization
 Image 
